@@ -1,0 +1,30 @@
+G:\Calculator-master\Calculator-master\Calculadora_2003_BrenoFerreira_02\bin\Debug\Calculadora_2003_BrenoFerreira_02.exe.config
+G:\Calculator-master\Calculator-master\Calculadora_2003_BrenoFerreira_02\bin\Debug\Calculadora_2003_BrenoFerreira_02.exe
+G:\Calculator-master\Calculator-master\Calculadora_2003_BrenoFerreira_02\bin\Debug\Calculadora_2003_BrenoFerreira_02.pdb
+G:\Calculator-master\Calculator-master\Calculadora_2003_BrenoFerreira_02\bin\Debug\af\Calculadora_2003_BrenoFerreira_02.resources.dll
+G:\Calculator-master\Calculator-master\Calculadora_2003_BrenoFerreira_02\bin\Debug\pt-BR\Calculadora_2003_BrenoFerreira_02.resources.dll
+G:\Calculator-master\Calculator-master\Calculadora_2003_BrenoFerreira_02\obj\Debug\Calculadora_2003_BrenoFerreira_02.csprojResolveAssemblyReference.cache
+G:\Calculator-master\Calculator-master\Calculadora_2003_BrenoFerreira_02\obj\Debug\Calculadora_2003_BrenoFerreira_02.Calculadora.resources
+G:\Calculator-master\Calculator-master\Calculadora_2003_BrenoFerreira_02\obj\Debug\Calculadora_2003_BrenoFerreira_02.Properties.Resources.resources
+G:\Calculator-master\Calculator-master\Calculadora_2003_BrenoFerreira_02\obj\Debug\Calculadora_2003_BrenoFerreira_02.Calculadora.af.resources
+G:\Calculator-master\Calculator-master\Calculadora_2003_BrenoFerreira_02\obj\Debug\Calculadora_2003_BrenoFerreira_02.Calculadora.pt-BR.resources
+G:\Calculator-master\Calculator-master\Calculadora_2003_BrenoFerreira_02\obj\Debug\Calculadora_2003_BrenoFerreira_02.csproj.GenerateResource.Cache
+G:\Calculator-master\Calculator-master\Calculadora_2003_BrenoFerreira_02\obj\Debug\af\Calculadora_2003_BrenoFerreira_02.resources.dll
+G:\Calculator-master\Calculator-master\Calculadora_2003_BrenoFerreira_02\obj\Debug\pt-BR\Calculadora_2003_BrenoFerreira_02.resources.dll
+G:\Calculator-master\Calculator-master\Calculadora_2003_BrenoFerreira_02\obj\Debug\Calculadora_2003_BrenoFerreira_02.exe
+G:\Calculator-master\Calculator-master\Calculadora_2003_BrenoFerreira_02\obj\Debug\Calculadora_2003_BrenoFerreira_02.pdb
+C:\Users\Breno Ferreira\Desktop\Calculator\Calculadora_2003_BrenoFerreira_02\bin\Debug\Calculadora_2003_BrenoFerreira_02.exe.config
+C:\Users\Breno Ferreira\Desktop\Calculator\Calculadora_2003_BrenoFerreira_02\bin\Debug\Calculadora_2003_BrenoFerreira_02.exe
+C:\Users\Breno Ferreira\Desktop\Calculator\Calculadora_2003_BrenoFerreira_02\bin\Debug\Calculadora_2003_BrenoFerreira_02.pdb
+C:\Users\Breno Ferreira\Desktop\Calculator\Calculadora_2003_BrenoFerreira_02\bin\Debug\af\Calculadora_2003_BrenoFerreira_02.resources.dll
+C:\Users\Breno Ferreira\Desktop\Calculator\Calculadora_2003_BrenoFerreira_02\bin\Debug\pt-BR\Calculadora_2003_BrenoFerreira_02.resources.dll
+C:\Users\Breno Ferreira\Desktop\Calculator\Calculadora_2003_BrenoFerreira_02\obj\Debug\Calculadora_2003_BrenoFerreira_02.csprojResolveAssemblyReference.cache
+C:\Users\Breno Ferreira\Desktop\Calculator\Calculadora_2003_BrenoFerreira_02\obj\Debug\Calculadora_2003_BrenoFerreira_02.Calculadora.resources
+C:\Users\Breno Ferreira\Desktop\Calculator\Calculadora_2003_BrenoFerreira_02\obj\Debug\Calculadora_2003_BrenoFerreira_02.Properties.Resources.resources
+C:\Users\Breno Ferreira\Desktop\Calculator\Calculadora_2003_BrenoFerreira_02\obj\Debug\Calculadora_2003_BrenoFerreira_02.Calculadora.af.resources
+C:\Users\Breno Ferreira\Desktop\Calculator\Calculadora_2003_BrenoFerreira_02\obj\Debug\Calculadora_2003_BrenoFerreira_02.Calculadora.pt-BR.resources
+C:\Users\Breno Ferreira\Desktop\Calculator\Calculadora_2003_BrenoFerreira_02\obj\Debug\Calculadora_2003_BrenoFerreira_02.csproj.GenerateResource.Cache
+C:\Users\Breno Ferreira\Desktop\Calculator\Calculadora_2003_BrenoFerreira_02\obj\Debug\af\Calculadora_2003_BrenoFerreira_02.resources.dll
+C:\Users\Breno Ferreira\Desktop\Calculator\Calculadora_2003_BrenoFerreira_02\obj\Debug\pt-BR\Calculadora_2003_BrenoFerreira_02.resources.dll
+C:\Users\Breno Ferreira\Desktop\Calculator\Calculadora_2003_BrenoFerreira_02\obj\Debug\Calculadora_2003_BrenoFerreira_02.exe
+C:\Users\Breno Ferreira\Desktop\Calculator\Calculadora_2003_BrenoFerreira_02\obj\Debug\Calculadora_2003_BrenoFerreira_02.pdb
