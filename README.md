@@ -1,4 +1,4 @@
-# State High School José Leite Lopes (NAVE)
+# José Leite Lopes State High School (NAVE)
 
 In this repository, I will add all the projects and exercises made by me in the subjects of the technical course of Digital Game Programming of NAVE.
 
