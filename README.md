@@ -16,6 +16,6 @@ In this repository, I will add all the projects and exercises made by me in the 
 
 ### Important
 
-Authors and Contributors: [Breno Rocha](https://github.com/BrenoFerreiraRocha) and [Patrick Pissurno](https://github.com/patrickpissurno) (Matrix Calculator)
+Authors and Contributors: [Breno Rocha](https://github.com/BrenoFRocha) and [Patrick Pissurno](https://github.com/patrickpissurno) (Matrix Calculator)
 
 Support or Contact: Having trouble with this repository? Contact me at brenoferreirarocha@gmail.com and I will help you sort it out.
