@@ -14,10 +14,10 @@ public class CellBehavior : MonoBehaviour
 	{
 		F = 0;
 		I = 0;
-		optionsM = new Material[5];
+		optionsM = new Material[4];
 		manager = GameObject.Find("Manager").GetComponent<GridCreator>();
 		pathfinder = GameObject.Find("Manager").GetComponent<Pathfinder>();
-		for(int i = 0;i < 5; i++)
+		for(int i = 0;i < 4; i++)
 		{
 			optionsM[i] = Resources.Load("Materials/Material"+i,typeof(Material)) as Material;
 		}
@@ -37,7 +37,7 @@ public class CellBehavior : MonoBehaviour
                     thereIsTwo = true;
                 }
             }
-            if (manager.statusID[number] < 4)
+            if (manager.statusID[number] < 3)
             {
                 manager.statusID[number] += 1;
             }
